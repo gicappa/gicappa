@@ -58,85 +58,89 @@ Etalia SA was a startup born to help newspapers with the difficulties of the dig
 In Etalia SA I contributed to building the development lifecycle, accordingly to the agile methods, creating a Kanban board to track the product progress avoiding bottlenecks.
 I used to manage and work together with three developers (in a team composed of five developers) and to analyse the request coming from the marketing board figuring out how to implement them.
 
-Role and Responsibilities
-•	Managing the front end team;
-•	Coaching the development team;
-•	Supporting the development process and agile practices;
-•	Supporting the with architectural advises;
-•	Develop web frontend and the mobile iOS app.
-I used to report to the CTO supporting him with the team management.
+#### Role and Responsibilities
+* Managing the front end team;
+* Coaching the development team;
+* Supporting the development process and agile practices;
+* Supporting the with architectural advises;
+* Develop web frontend and the mobile iOS app.
+* I used to report to the CTO supporting him with the team management.
 
-Tech Stack: Vanilla Javascript, Ruby/Rails, Java, Objective-C/iOS, REST, JSON, TDD, Kanban, RSpec, Bundler, github.
+#### Tech Stack 
+Vanilla Javascript, Ruby/Rails, Java, Objective-C/iOS, REST, JSON, TDD, Kanban, RSpec, Bundler, github.
 
- 
-Software Architect @ Jobrapido / 2013 - 2014
-Milan Area, Italy
+## Software Architect @ Jobrapido / 2013 - 2014
+_Milan Area, Italy_
 
 Jobrapido is a startup that aims at providing a job to all the worldwide job seekers. Jobrapido provides a search engine for job openings up to 59 countries in the world. The major challenge in Jobrapido has been scaling up of a distributed architecture of an highly trafficked (+300k page views/month) system under tight deadlines and demanding company objectives.
 
-Role and Responsibilities
-•	Responsibility to follow development, testing, deployment of projects that could span different divisions (DWH, Marketing, Software Dev);
-•	Creating architectures to support new components, modules, products;
-•	Contribute to the enhancement of the existing system architecture;
-•	Helping in searching for solutions on infrastructural issues and automation task like deployment, modularisation and
-software best practices.
+#### Role and Responsibilities
+* Responsibility to follow development, testing, deployment of projects that could span different divisions (DWH, Marketing, Software Dev);
+* Creating architectures to support new components, modules, products;
+* Contribute to the enhancement of the existing system architecture;
+* Helping in searching for solutions on infrastructural issues and automation task like deployment, modularisation and software best practices.
 
 I didn't directly manage any team, but I had the responsibility to follow up cross-team projects and to foster the adoption of methodologies and best practices.
 
-Tech Stack: RabbitMQ, Redis, Elasitcsearch, MongoDB, Tomcat, REST, JSON, PostgreSQL, TDD, junit, ETL, git, Jira.
+#### Tech Stack
+RabbitMQ, Redis, Elasitcsearch, MongoDB, Tomcat, REST, JSON, PostgreSQL, TDD, junit, ETL, git, Jira.
  
-Software Craftsman @ Gild, Inc. / 2012 - 2013
-San Francisco Bay Area, California, USA
+### Software Craftsman @ Gild, Inc. / 2012 - 2013
+_San Francisco Bay Area, California, USA_
 
 Gild was a startup located in San Francisco trying to solve the struggle many companies in the bay areas had in finding and hiring software engineers. The platform was merging toghter information coming from several publicly available sources (github, bitbucket, Linkedin, etc.) analyzing the data and providing a search engine to the clients to help them in the research.
 
-Role and Responsibilities
+#### Role and Responsibilities
 I joined the team as a Frontend Leader managing a small team of developer and UX/UI experts to improve the customer facing web application and at the same time develop new features following the evolution of the back end application. To achieve the business goals I used to coordinate my team's work with different departments (marketing, svp, dev, data science).
 
-Tech Stack: Ruby on Rails, CoffeeScript, JavaScript, MongoDB, Elasticsearch, Redis, Big Data, JSON, Scrum, TDD, rspec, Search Engine, Feature Toggling, Pivotal Tracker, github.
+#### Tech Stack
+Ruby on Rails, CoffeeScript, JavaScript, MongoDB, Elasticsearch, Redis, Big Data, JSON, Scrum, TDD, rspec, Search Engine, Feature Toggling, Pivotal Tracker, github.
  
-Software Architect @ fractalgarden / 2009 – 2012
-Milan Area, Italy
+### Software Architect @ fractalgarden / 2009 – 2012
+_Milan Area, Italy_
 
 Fractalgarden is a startup incubator and a company that invests in software and hardware products always striving for high quality standards. One of the biggest challeng was a complete rewriting of the software that has been developed across seven years. The rebuilt was performed incrementally while the software was used by more than one hundred employees using feature toggling and an agile management with great satisfaction of the customer since it has been released on time and budget.
 
-Role and Responsibilities
-•	I worked as an architect, technical lead and a software developer on several projects. 
-•	I kept the relationship with many stakeholders, gathered requirements and set up an agile process to manage the development, leading it with agile methodologies (Kanban, Scrum, XP).
+#### Role and Responsibilities
+* I worked as an architect, technical lead and a software developer on several projects. 
+* I kept the relationship with many stakeholders, gathered requirements and set up an agile process to manage the development, leading it with agile methodologies (Kanban, Scrum, XP).
 
-Tech Stack: Ruby on Rails, Devise, Paginator, Resque, Redis, JavaScript, node.js, JSON, Java, Spring, Hibernate, BlazeDS, TDD, junit, rspec, cucumber, Continuous Delivery, git.
+#### Tech Stack
+Ruby on Rails, Devise, Paginator, Resque, Redis, JavaScript, node.js, JSON, Java, Spring, Hibernate, BlazeDS, TDD, junit, rspec, cucumber, Continuous Delivery, git.
  
-Senior Developer @ Vodafone Global / 2009
-Düsseldorf, North Rhine-Westphalia, Germany
+### Senior Developer @ Vodafone Global / 2009
+_Düsseldorf, North Rhine-Westphalia, Germany_
  
 I've been a consultant software developer in an international environment collaborating with distributed teams (located in Germany, Denmark, England) on the integration of an internal product with social networks like Facebook, Google, MySpace and Flickr. The product was designed to serve 6 million users with a highly scalable system written in Java and connected to other heterogeneous systems of complex production infrastructure.
 
-Role and Responsibilities
-•	I have been working mostly as a Software Engineer
+#### Role and Responsibilities
+* I have been working mostly as a Software Engineer
 
-Tech Stack: Java, memcached, FitNesse Tests, Jenkins, JUnit, RESTful Architectures, Oauth, MySQL, Big Data, TDD, junit, ant, MySQL, SVN, 6mln user, TLC.
- 
+#### Tech Stack
+Java, memcached, FitNesse Tests, Jenkins, JUnit, RESTful Architectures, Oauth, MySQL, Big Data, TDD, junit, ant, MySQL, SVN, 6mln user, TLC.
 
-Project Lead @ Openmind S.r.L. / 2008 – 2009
-Milan Area, Italy
+### Project Lead @ Openmind S.r.L. / 2008 – 2009
+_Milan Area, Italy_
 
 I've been the project leader and developer of complex invoicing software for a big Italian company working on wiretapping for the Italian public administration.
 
-Role and Responsibilities
-•	I was the team leader of four developers.
-•	I worked as a Software Engineer
+#### Role and Responsibilities
+* I was the team leader of four developers.
+* I worked as a Software Engineer
 
-Tech Stack: GWT/GXT, Java, Spring, Hibernate, Oracle, JUnit/DBUnit, Jetty, maven, junit. 
+#### Tech Stack
+GWT/GXT, Java, Spring, Hibernate, Oracle, JUnit/DBUnit, Jetty, maven, junit. 
  
-Software Architect & Senior Developer @ Sourcesense S.r.l. / 2006 – 2008
-Milan Area, Italy
+### Software Architect & Senior Developer @ Sourcesense S.r.l. / 2006 – 2008
+_Milan Area, Italy_
 
 I developed and managed many projects from requirements to implementations. My main activities and projects: e-commerce solutions, institutional web sites backed by a CMS, vertical consultancy to refactor a J(2)EE architecture. 
 
-Tech Stack: Agile, Scrum, XP, TDD, Cocoon, XML, XSLT, JBoss, Bea Weblogic, Spring, Hibernate, Oracle, Derby, MySQL, JUnit, Ant+Ivy, maven, Hudson, Jetty, JIRA.
+#### Tech Stack
+Agile, Scrum, XP, TDD, Cocoon, XML, XSLT, JBoss, Bea Weblogic, Spring, Hibernate, Oracle, Derby, MySQL, JUnit, Ant+Ivy, maven, Hudson, Jetty, JIRA.
  
-Software Architect & Senior Developer @ Fastweb S.p.A. / 2004 – 2007
-Milan Area, Italy
+### Software Architect & Senior Developer @ Fastweb S.p.A. / 2004 – 2007
+_Milan Area, Italy_
 
 I collaborated in building a software architecture accordingly to the marketing dept. requirements managed a medium size team of developer and wrote code.
 The project was a custom e-procurement application tailored for Regione Lombardia (an Italian PA) and it’s currently live with hundreds of auctions running per day and billion of transactions managed per year.

@@ -146,51 +146,58 @@ I collaborated in building a software architecture accordingly to the marketing 
 The project was a custom e-procurement application tailored for Regione Lombardia (an Italian PA) and it’s currently live with hundreds of auctions running per day and billion of transactions managed per year.
 Keywords: EJBs, Struts, JBoss, Hibernate, MySQL, Oracle, OSWorkflow, Quartz, JBoss Portal, Scrum, XP, TDD, junit, DBUnit, Regione Lombardia.
  
-Owner @ Webrise S.R.L. / 2002 - 2004
-Milan Area, Italy
+### Owner @ Webrise S.R.L. / 2002 - 2004
+_Milan Area, Italy_
 
 During this hard and challenging experience, I’ve been involved in several activities needed to run a company like administration, customer care, marketing and last but not least architecting and developing outstanding applications. 
 
 Some projects: www.ied.it, project.ied.it, search.kataweb.it, www.paguro.net, aaa.cercasialice.it, www.lacasadialice.it / www.rossoalice.it.
 Keywords: Open Source, Apache Foundation, Cocoon, XML/XSLT, DOM, SAX, PostegreSQL, MySQL, Oracle.
 
-Senior Developer @ Bibop research Int. SpA / 2001 - 2002
-Milan Area, Italy
+### Senior Developer @ Bibop research Int. SpA / 2001 - 2002
+_Milan Area, Italy_
 
 In Bibop Research I started managing projects on my own helped by a junior developer. Web applications and the showbusiness world was the main action field. Being deeply involved in Open Source software development and Java community, Bibop gave me the chance to start learning and loving them. 
 Some projects: www.virginmusic.it, www.cristinaparodi.it, www.dariabignardi.it, www.intravisione.it
 Keywords: Open Source, Apache Foundation, Cocoon, XML/XSLT, DOM, SAX, PostegreSQL, MySQL, Oracle.
  
-Developer @ TPL Informatica / 1998 - 2001
-Milan Area, Italy
+### Developer @ TPL Informatica / 1998 - 2001
+_Milan Area, Italy_
 
 TPL Informatica gave me the chance to write my graduation thesis and to grow up in knowledge and experience. I developed a mobile application to inquire the status of the insurance policy for a big Italian insurance group, a WAP trading online site for Directa SIM (in collaboration with Omnitel 2000) and a desktop client-server software for the banking environment.
 Keywords: C/C++, COM/COM+, AFC, MFC, ASP, Visual Basic 6, SQL SERVER, Sybase, DB2, IBM.
  
-Junior Consultant @ Intesis / 1997
+### Junior Consultant @ Intesis / 1997
+_Milan Area, Italy_
+
 My very first collaboration. I applied a patch to an SNMP software for a monitoring system in the Telecom intranet of Mestre.
-EDUCATION
-Computer Engineering University @ Politecnico di Milano / 1992 - 1999
-Graduated in Computer Engineering at “Università degli studi Politecnico di Milano”, with rating of 87/100. The thesis developed a web application of trading online with the title: “Reengineering di un’applicazione monolitica ad una struttura three-tier orientata al web”.
-Scientific High School @ Guglielmo Marconi / 1986 - 1991
-Graduation at scientific high school  “G. Marconi” of Chiavari (GE) rated 52/60.
-COURSES
-•	Developing on AWS / 2020
-•	Architecting on AWS / 2020
-•	Advanced Architecting on AWS / 2020
-•	Handling Sensitive and Restreint EU Information / 2019
-•	JRC Introduction to Evidence for Policy for JRC researcher / 2019
-•	JRC Ispra Secure Web Application Development / 2019
-•	Microsoft OpenXML / 2007
-•	Web Sphere 3.0.5 / 2000
-•	Progress App Server / 1999
-•	Top ISV @ Microsoft Italy / 1998 – 1999
-•	TOEFL / 1997 (562/660)
-JUG Coordinator / 2006 – now
+
+## Education
+### Computer Engineering University @ Politecnico di Milano / 1992 - 1999
+* Graduated in Computer Engineering at “Università degli studi Politecnico di Milano”, with rating of 87/100. The thesis developed a web application of trading online with the title: “Reengineering di un’applicazione monolitica ad una struttura three-tier orientata al web”.
+
+### Scientific High School @ Guglielmo Marconi / 1986 - 1991
+* Graduation at scientific high school  “G. Marconi” of Chiavari (GE) rated 52/60.
+
+### Courses 
+* Developing on AWS / 2020
+* Architecting on AWS / 2020
+* Advanced Architecting on AWS / 2020
+* Handling Sensitive and Restreint EU Information / 2019
+* JRC Introduction to Evidence for Policy for JRC researcher / 2019
+* JRC Ispra Secure Web Application Development / 2019
+* Microsoft OpenXML / 2007
+* Web Sphere 3.0.5 / 2000
+* Progress App Server / 1999
+* Top ISV @ Microsoft Italy / 1998 – 1999
+* TOEFL / 1997 (562/660)
+
+### JUG Coordinator / 2006 – now
 I’ve organised events finding location and speakers and I’ve presented talks about various subjects.
 Publications
 Occasional collaboration with the Italian magazines Chip and Netstime in which he wrote technical articles about Linux and programming topics.
-LANGUAGES
-Italian:   	native speaker
-English: 		pretty good reading skills and oral expression.
-French: 		sufficient reading and writing skills.
+
+### Languages
+* Italian:   	native speaker
+* English: 		pretty good reading skills and oral expression.
+* French: 		sufficient reading and writing skills.

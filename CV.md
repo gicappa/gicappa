@@ -1,6 +1,6 @@
-# Gian Carlo
-# Pace surname
-PERSONAL PROFILE
+# Gian Carlo Pace
+
+## Personal Profile
 Software is my passion. I have been a passionate coder from the age of eleven when I received my C64. I graduated in software engineering at Politecnico di Milano, and I’m professionally involved in the IT field from more than 20 years.
 
 I love writing clean, readable and maintainable code, I am passionate about designing scalable and highly available architectures, and I am into agile methods and practice since 2003.
@@ -9,18 +9,18 @@ During my career, I fell in love with open source technologies, and I understood
 The opensource involvement taught me that communication and continuous learning are indispensable grounds to build a successful software product.
 When I founded a software shop, I had to work overnight, during the weekend, and I started searching for a better way to create software products on time and budget, and I stumbled upon agile methods.
 I’ve been working for TLC and small and promising startups while astoundingly I still love creating architectures, developing software and building products together with great people.
-AREA OF EXPERTISE
+## AREA OF EXPERTISE
 In a nutshell:
-•	software architectures, software development and technology scouting;
-•	software development lifecycle and methodologies to deliver great software;
-•	leading teams and projects with a sustainable pace.
-Architecture
+* software architectures, software development and technology scouting;
+* software development lifecycle and methodologies to deliver great software;
+* leading teams and projects with a sustainable pace.
+### Architecture
 Microservice Architecture, Service Oriented Architecture and architecture design of scalable, highly available and fault-tolerant solutions.
-Coding
+### Coding
 Test Driven Development (TDD), Behavior Driven Development (BDD), Domain Driven Development (DDD), Object-Oriented Programming (OOP) with SOLID Principles, Functional Programming (FP).
-Programming Languages
+### Programming Languages
 Java, Javascript, Ruby. Basic knowledge of Kotlin, Rust, Haskell and Typescript. I like to experiment and learn new programming languages.
-Technologies
+### Technologies
 Cloud: 			AWS, Vmware, Docker, Kubernetes (K8s), Rancher.
 DevOps: 		Ansible, Terraform, Helm.
 App Server:		Quarkus.io, Dropwizard, Jetty, Rails, vert.x.
@@ -29,12 +29,12 @@ Messaging Systems: 	Kafka, RabbitMQ, ActiveMQ / Artemis.
 Persistence: 		PostgreSQL, MySQL, MongoDB, Redis.
 VCS, CI/CD: 		Github, Bitbucket, Jenkins, Bamboo, Nexus/Artifactory.
 Tools: 			IntelliJ, VScode, vim, JIRA, Miro.
-Operative Systems
+### Operative Systems
 GNU\Linux, macOS, Window, iOS.
  
-WORK EXPERIENCE
-Scientific / Technical Project Officer @ Joint Research Centre of the European Commission 
-Ispra (VA), Italy
+## Work Experience
+### Scientific / Technical Project Officer @ Joint Research Centre of the European Commission 
+_Ispra (VA), Italy_
 
 In the JRC I'm part of the Transport and Border Security E.5 Unit, and since 2015 I’m contributing to the project Common Information Sharing Environment (CISE) for the Maritime Surveillance (FP7).
 
@@ -42,15 +42,16 @@ CISE is a completely distributed peer-to-peer system that aims at fostering the 
 
 On the technical side, we are developing a microservice architecture using the Java, JavaScript and Ruby programming language, deployed both on-premises (VMware) and in the cloud (AWS) in a Kubernetes cluster supported by Rancher.
 
-Role and Responsibilities
-•	I'm leading the architecture of CISE, selecting technologies, designing and documenting the solutions, and relating with external contractors;
-•	I'm leading the CISE Engineering team of the internal development of the CISE node using agile methodologies (Kanban, XP, Scrum);
-•	I'm relating with several European authorities and helping them in embarking on the project, participating in conferences, providiging technical advises.
+#### Role and Responsibilities
+* I'm leading the architecture of CISE, selecting technologies, designing and documenting the solutions, and relating with external contractors;
+* I'm leading the CISE Engineering team of the internal development of the CISE node using agile methodologies (Kanban, XP, Scrum);
+* I'm relating with several European authorities and helping them in embarking on the project, participating in conferences, providiging technical advises.
 
-Tech Stack: Microservice Architectures, Java, Ruby, JavaScript, TDD, REST, SOAP, XML/XSD, maven, React, AWS, VMware, KVM, Kubernetes, Rancher, Docker, Service Mesh, ELK, Keycloak, Kafka, RabbitMQ, github/bitbucket, Jenkins, Nexus, Helm, JIRA, Miro, Story Mapping.
+#### Tech Stack
+Microservice Architectures, Java, Ruby, JavaScript, TDD, REST, SOAP, XML/XSD, maven, React, AWS, VMware, KVM, Kubernetes, Rancher, Docker, Service Mesh, ELK, Keycloak, Kafka, RabbitMQ, github/bitbucket, Jenkins, Nexus, Helm, JIRA, Miro, Story Mapping.
  
-Coach and Software Craftsman @ Etalia.net / 2014 - 2015
-Lugano Area, Switzerland
+### Coach and Software Craftsman @ Etalia.net / 2014 - 2015
+_Lugano Area, Switzerland_
 
 Etalia SA was a startup born to help newspapers with the difficulties of the digital age. The press industry lives a bad momentum due to the change in people habits in reading the information, mostly online and from many different sources, like online news websites, Facebook, Twitter, newsfeeds and so on.
 

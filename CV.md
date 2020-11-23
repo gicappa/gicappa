@@ -32,7 +32,7 @@ Java, Javascript, Ruby. Basic knowledge of Kotlin, Rust, Haskell and Typescript.
 - App Server:		Quarkus.io, Dropwizard, Jetty, Rails, vert.x.
 - API Development:	REST (HATEOAS), SOAP protocols.
 - Messaging Systems: 	Kafka, RabbitMQ, ActiveMQ / Artemis.
-- Persistence: 		PostgreSQL, MySTQL, MongoDB, Redis.
+- Persistence: 		PostgreSQL, MySQL, MongoDB, Redis.
 - VCS, CI/CD: 		Github, Bitbucket, Jenkins, Bamboo, Nexus/Artifactory.
 - Tools: 			IntelliJ, VScode, vim, JIRA, Miro.
 

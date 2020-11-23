@@ -26,14 +26,15 @@ Test Driven Development (TDD), Behavior Driven Development (BDD), Domain Driven 
 Java, Javascript, Ruby. Basic knowledge of Kotlin, Rust, Haskell and Typescript. I like to experiment and learn new programming languages.
 
 ### Technologies _| read w; echo Latest $w Used_
-Cloud: 			AWS, Vmware, Docker, Kubernetes (K8s), Rancher.
-DevOps: 		Ansible, Terraform, Helm.
-App Server:		Quarkus.io, Dropwizard, Jetty, Rails, vert.x.
-API Development:	REST (HATEOAS), SOAP protocols.
-Messaging Systems: 	Kafka, RabbitMQ, ActiveMQ / Artemis.
-Persistence: 		PostgreSQL, MySTQL, MongoDB, Redis.
-VCS, CI/CD: 		Github, Bitbucket, Jenkins, Bamboo, Nexus/Artifactory.
-Tools: 			IntelliJ, VScode, vim, JIRA, Miro.
+
+- Cloud: 			AWS, Vmware, Docker, Kubernetes (K8s), Rancher.
+- DevOps: 		Ansible, Terraform, Helm.
+- App Server:		Quarkus.io, Dropwizard, Jetty, Rails, vert.x.
+- API Development:	REST (HATEOAS), SOAP protocols.
+- Messaging Systems: 	Kafka, RabbitMQ, ActiveMQ / Artemis.
+- Persistence: 		PostgreSQL, MySTQL, MongoDB, Redis.
+- VCS, CI/CD: 		Github, Bitbucket, Jenkins, Bamboo, Nexus/Artifactory.
+- Tools: 			IntelliJ, VScode, vim, JIRA, Miro.
 
 ### Operative Systems
 GNU\Linux, macOS, Window, iOS.

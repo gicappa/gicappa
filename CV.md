@@ -8,27 +8,33 @@ I love writing clean, readable and maintainable code, I am passionate about desi
 During my career, I fell in love with open source technologies, and I understood the value of sharing knowledge and giving back to the community.
 The opensource involvement taught me that communication and continuous learning are indispensable grounds to build a successful software product.
 When I founded a software shop, I had to work overnight, during the weekend, and I started searching for a better way to create software products on time and budget, and I stumbled upon agile methods.
-I’ve been working for TLC and small and promising startups while astoundingly I still love creating architectures, developing software and building products together with great people.
-## AREA OF EXPERTISE
+I’ve been working for large TLC and for small and promising startups and, astoundingly, I still love designing architectures, developing software and building products together with great people.
+
+## Area of expertise
 In a nutshell:
 * software architectures, software development and technology scouting;
 * software development lifecycle and methodologies to deliver great software;
 * leading teams and projects with a sustainable pace.
+
 ### Architecture
 Microservice Architecture, Service Oriented Architecture and architecture design of scalable, highly available and fault-tolerant solutions.
+
 ### Coding
 Test Driven Development (TDD), Behavior Driven Development (BDD), Domain Driven Development (DDD), Object-Oriented Programming (OOP) with SOLID Principles, Functional Programming (FP).
+
 ### Programming Languages
 Java, Javascript, Ruby. Basic knowledge of Kotlin, Rust, Haskell and Typescript. I like to experiment and learn new programming languages.
-### Technologies
+
+### Technologies _| read w; echo Latest $w Used_
 Cloud: 			AWS, Vmware, Docker, Kubernetes (K8s), Rancher.
 DevOps: 		Ansible, Terraform, Helm.
 App Server:		Quarkus.io, Dropwizard, Jetty, Rails, vert.x.
 API Development:	REST (HATEOAS), SOAP protocols.
 Messaging Systems: 	Kafka, RabbitMQ, ActiveMQ / Artemis.
-Persistence: 		PostgreSQL, MySQL, MongoDB, Redis.
+Persistence: 		PostgreSQL, MySTQL, MongoDB, Redis.
 VCS, CI/CD: 		Github, Bitbucket, Jenkins, Bamboo, Nexus/Artifactory.
 Tools: 			IntelliJ, VScode, vim, JIRA, Miro.
+
 ### Operative Systems
 GNU\Linux, macOS, Window, iOS.
  

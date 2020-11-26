@@ -196,6 +196,9 @@ My very first collaboration. I applied a patch to an SNMP software for a monitor
 ### Scientific High School @ Guglielmo Marconi / 1986 - 1991
 * Graduation at scientific high school  “G. Marconi” of Chiavari (GE) rated 52/60.
 
+### Certifications
+* PM<sup>2</sup> Certification / 2018
+
 ### Courses 
 * Developing on AWS / 2020
 * Architecting on AWS / 2020
@@ -203,7 +206,6 @@ My very first collaboration. I applied a patch to an SNMP software for a monitor
 * Handling Sensitive and Restreint EU Information / 2019
 * JRC Introduction to Evidence for Policy for JRC researcher / 2019
 * JRC Ispra Secure Web Application Development / 2019
-* PM<sup>2</sup> Certification / 2018
 * Microsoft OpenXML / 2007
 * Web Sphere 3.0.5 / 2000
 * Progress App Server / 1999

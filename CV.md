@@ -1,7 +1,7 @@
 # Gian Carlo Pace
 
 ## Personal Profile
-Software is my passion. I have been a passionate coder from the age of eleven when I received my C64. I graduated in software engineering at Politecnico di Milano, and I’m professionally involved in the IT field from more than 20 years.
+Software is my passion. I have been a passionate coder from the age of eleven when I received my first computer for christmas (C=64). I graduated in software engineering at Politecnico di Milano, and I’m professionally involved in the IT field from more than 20 years.
 
 I love writing clean, readable and maintainable code, I am passionate about designing scalable and highly available architectures, and I am into agile methods and practice since 2003.
 

@@ -39,8 +39,13 @@ Java, Javascript, Ruby. Basic knowledge of Kotlin, Rust, Haskell and Typescript.
 ### Operative Systems
 GNU\Linux, macOS, Window, iOS.
  
+### Languages
+* Italian:   	native speaker
+* English: 		pretty good reading skills and oral expression.
+* French: 		sufficient reading and writing skills.
+
 ## Work Experience
-### Scientific / Technical Project Officer @ Joint Research Centre of the European Commission 
+### Scientific / Technical Project Officer @ Joint Research Centre of the European Commission / 2015 - now
 _Ispra (VA), Italy_
 
 In the JRC I'm part of the Transport and Border Security E.5 Unit, and since 2015 I’m contributing to the project Common Information Sharing Environment (CISE) for the Maritime Surveillance (FP7).
@@ -57,6 +62,11 @@ On the technical side, we are developing a microservice architecture using the J
 #### Tech Stack
 Microservice Architectures, Java, Ruby, JavaScript, TDD, REST, SOAP, XML/XSD, maven, React, AWS, VMware, KVM, Kubernetes, Rancher, Docker, Service Mesh, ELK, Keycloak, Kafka, RabbitMQ, github/bitbucket, Jenkins, Nexus, Helm, JIRA, Miro, Story Mapping.
  
+### JUG Coordinator / 2006 – now
+I’ve organised events finding location and speakers and I’ve presented talks about various subjects.
+Publications
+Occasional collaboration with the Italian magazines Chip and Netstime in which he wrote technical articles about Linux and programming topics.
+
 ### Coach and Software Craftsman @ Etalia.net / 2014 - 2015
 _Lugano Area, Switzerland_
 
@@ -193,18 +203,9 @@ My very first collaboration. I applied a patch to an SNMP software for a monitor
 * Handling Sensitive and Restreint EU Information / 2019
 * JRC Introduction to Evidence for Policy for JRC researcher / 2019
 * JRC Ispra Secure Web Application Development / 2019
+* PM<sup>2</sup> Certification / 2018
 * Microsoft OpenXML / 2007
 * Web Sphere 3.0.5 / 2000
 * Progress App Server / 1999
 * Top ISV @ Microsoft Italy / 1998 – 1999
 * TOEFL / 1997 (562/660)
-
-### JUG Coordinator / 2006 – now
-I’ve organised events finding location and speakers and I’ve presented talks about various subjects.
-Publications
-Occasional collaboration with the Italian magazines Chip and Netstime in which he wrote technical articles about Linux and programming topics.
-
-### Languages
-* Italian:   	native speaker
-* English: 		pretty good reading skills and oral expression.
-* French: 		sufficient reading and writing skills.

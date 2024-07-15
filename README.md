@@ -2,9 +2,9 @@
 
 I am a passionate **software engineer** and **software architect** with more than twenty years of experience. 
 
-*My interests are software architectures, distributed systems, interoperability, system scalability and high availability, software development and its lifecycle.*
+_My interests are software architectures, distributed systems, interoperability, system scalability and high availability, software development and its lifecycle_.
 
-- I started coding when I was eleven, I graduated in software engineering at Politecnico di Milano and I’m professionally involved in the IT field from more than 20 years.
-- I opened a software company named **Webrise** and I started working as consultant for the TLC Fastweb (Italy) and Vodafone (Germany) and for startups like Gild (USA), Jobrapido (Italy) and Etalia (Switzerland).
-- I've spent 6 years working in the European Commission on the project *Common Information Sharing Environment (CISE) for Maritime Surveillance* connecting maritime public authorities across Europe improving European citizens' saftety and security.
-- I'm currently working in Hyland / Alfresco on Enterprise Content Management systems, a recurring and beloved subject in my career. 
+- I started coding when I was eleven, eventually graduating in software engineering at **Politecnico di Milano**.
+- Professionally immersed in the IT field for over 25 years, I founded the software company **Webrise**. My consulting journey led me to collaborate with companies like TLC Fastweb (Italy), Vodafone (Germany), and startups such as Gild (USA), Jobrapido (Italy), and Etalia (Switzerland).
+- During the 6-year time spent at the **European Commission**, I contributed to the **Common Information Sharing Environment (CISE)** project for Maritime Surveillance. This initiative connected maritime public authorities across Europe, enhancing safety and security for European citizens.
+- Prensently, I'm working with **Hyland** focusing on Enterprise Content Management systems, and _continuing enjoying my job_.

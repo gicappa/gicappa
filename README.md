@@ -6,10 +6,8 @@ I'm a **Software Architect** and **Engineer** with 25+ years of experience craft
 - 🌐 Previously at the **European Commission**, **Vodafone Global**, and various innovative startups like **JobRapido** and **ETalia**.
 - 🚀 Specialties: Kubernetes, Microservices, Cloud-native solutions, System Scalability.
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/gianka/)
-  
-## Technologies I love:
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
-![Microservices](https://img.shields.io/badge/-Microservices-%2300bcd4)
 
-Let's connect! 🚀
+## Let's connect! 🚀
+  
+### I love ❤️
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) ![Microservices](https://img.shields.io/badge/-Microservices-%2300bcd4)

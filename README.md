@@ -1,6 +1,6 @@
 # Hi! :wave: I am Gian Carlo.
 
-I am a passionate **software engineer** and **software architect** with more than twenty years of experience. 
+**Software Architect** and **Engineer** with 25+ years of experience crafting scalable, distributed systems. Passionate about designing architectures that drive interoperability, resilience, and innovation.
 
 _My interests are software architectures, distributed systems, interoperability, system scalability and high availability, software development and its lifecycle_.
 
